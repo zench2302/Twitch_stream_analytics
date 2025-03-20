@@ -14,4 +14,4 @@ twitch API documentation
 check notebook ST445_GAMING.ipynb
 
 # For Data collection and write data into BigQuery table
-check notebook twitch_chat_liste
+check notebook twitch_chat_liste.ipynb
