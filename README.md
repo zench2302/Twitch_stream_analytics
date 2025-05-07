@@ -22,3 +22,14 @@ Should data scrapping considered here? - I don't think twitch or the api request
 
 **2. channel list**
 Now the channel list is selected from lives with the 20 most audiences at real-time in each game. This should be fine as frequent group actions are something we mainly want to study. 
+
+
+# 7 May
+check number of chats per second from the toy data on bigquery; @mic
+game list @all
+produce a version of dataset for the project @jia.
+
+EDA @all
+tokenization @jia @shameek; 
+community detectoin @shameek 
+graph quant model @shameek 
