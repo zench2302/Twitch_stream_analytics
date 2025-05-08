@@ -25,11 +25,17 @@ Now the channel list is selected from lives with the 20 most audiences at real-t
 
 
 # 7 May
-check number of chats per second from the toy data on bigquery; @mic
-game list @all
-produce a version of dataset for the project @jia.
+### Summary
+1.Data aquisition. @jia
 
-EDA @all
-tokenization @jia @shameek; 
-community detectoin @shameek 
-graph quant model @shameek 
+2.EDA @all 
+
+3.Text modeling 
+
+3.1 tokenization @jia @shameek; 
+
+3.2 community detectoin @shameek 
+
+3.3 graph quant model @shameek 
+
+Next meeting: 14 May.
