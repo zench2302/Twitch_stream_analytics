@@ -26,7 +26,7 @@ Now the channel list is selected from lives with the 20 most audiences at real-t
 
 # 7 May
 ### Summary
-1.Data aquisition. @jia
+1.Data aquisition. @Zench2302
 
 2.EDA @all 
 
