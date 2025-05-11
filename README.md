@@ -27,6 +27,10 @@ Now the channel list is selected from lives with the 20 most audiences at real-t
 # 7 May
 ### Summary
 1.Data aquisition. @Zench2302
+Done. Files are uploaded on github. 
+Also the following link is also shared:
+[twitch_chat_log20250511.csv](https://drive.google.com/file/d/1s46OOqRK9OPmBSEhHR8oSzeI_HCMedTN/view?usp=drive_link)
+[twitch_chat_log20250509.csv](https://drive.google.com/file/d/1s46OOqRK9OPmBSEhHR8oSzeI_HCMedTN/view?usp=drive_link)
 
 2.EDA @all 
 
