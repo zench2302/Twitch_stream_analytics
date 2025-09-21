@@ -18,7 +18,8 @@ This project builds a real-time system to extract dominant topics and sentiment 
 
 ## 📈 Pipeline Overview
 
-<img width="500" height="450" alt="image" src="https://github.com/user-attachments/assets/fb754f69-a489-49d6-9b26-c6a248817bfd" />
+<img width="500" height="450" alt="image" src="https://github.com/user-attachments/assets/13bd3e65-47ea-4905-bba9-c72e2d951799" />
+
 
 
 ```
