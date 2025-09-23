@@ -34,5 +34,11 @@ This project builds a real-time system to extract dominant topics and sentiment 
 ## Key Visuals
 ### EDA
 **Message count heatmap of Games and Channels**
-<img width="1380" height="864" alt="image" src="https://github.com/user-attachments/assets/727002dd-8d3f-4edf-8fa5-57cf4e7afa32" />
+<img width="880" height="640" alt="image" src="https://github.com/user-attachments/assets/727002dd-8d3f-4edf-8fa5-57cf4e7afa32" />
 
+### Sentiment Analysis 
+
+<img width="1666" height="982" alt="image" src="https://github.com/user-attachments/assets/ba0f0303-9beb-4bd1-b357-b8c29ddcd9ac" />
+
+### Text Clustering
+<img width="1440" height="944" alt="image" src="https://github.com/user-attachments/assets/cc7b4de6-1353-4b81-a676-bbf0003646d4" />
