@@ -30,3 +30,9 @@ This project builds a real-time system to extract dominant topics and sentiment 
 5. Temporal segmentation for dynamics
 6. Visualization of topic shifts across streams
 ```
+
+## Key Visuals
+### EDA
+**Message count heatmap of Games and Channels**
+<img width="1380" height="864" alt="image" src="https://github.com/user-attachments/assets/727002dd-8d3f-4edf-8fa5-57cf4e7afa32" />
+
