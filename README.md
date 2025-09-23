@@ -38,7 +38,13 @@ This project builds a real-time system to extract dominant topics and sentiment 
 
 ### Sentiment Analysis 
 
-<img width="1666" height="982" alt="image" src="https://github.com/user-attachments/assets/ba0f0303-9beb-4bd1-b357-b8c29ddcd9ac" />
+<img width="1660" height="898" alt="image" src="https://github.com/user-attachments/assets/29eca0b9-2178-4428-bcf6-64e2010a1fbb" />
+
 
 ### Text Clustering
-<img width="1440" height="944" alt="image" src="https://github.com/user-attachments/assets/cc7b4de6-1353-4b81-a676-bbf0003646d4" />
+<img width="1434" height="846" alt="image" src="https://github.com/user-attachments/assets/ec192bfa-4aa8-4133-8c33-74f72eb0612e" />
+
+This one is in fact a 3D interactive scatter plot, here is just a screenshot. 
+Dig into more here if interested: 
+
+
